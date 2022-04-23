@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a clone of JOTFORM. I designed this page for improving my CSS skills and I used React, HTML and pure CSS.
 
 ## Available Scripts
 
