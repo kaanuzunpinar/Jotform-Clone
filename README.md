@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Jotform Clone
 
 This is a clone of JOTFORM. I designed this page for improving my CSS skills and I used React, HTML and pure CSS.
 
